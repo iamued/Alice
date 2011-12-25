@@ -1,3 +1,4 @@
 ./plugins/AntBuild/tmp/
+./build/
 *.swp
 *.D_Store
